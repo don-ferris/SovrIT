@@ -35,7 +35,7 @@ The purpose of my homelab, a collection of hardware and software, is to provide 
 ## GOALS
 - Run services that improve my daily life — such as media servers, home automation, personal financial and project management, websites, and much more.
 - Make everything as private and secure as possible, by keeping my data under my control.
-- Reduce (eliminate, if possible) my dependence on commercial/3rd party cloud services (Dropbox, etc.) - especially those seeking to monetize and profit from my personal data (Google, Meta, etc.) - for sensitive files and data.
+- Reduce (eliminate, if possible) my dependence on commercial/3rd party cloud services (Dropbox, etc.) - especially those seeking to monetize and profit from my personal data (Google, Amazon, Meta, etc.) - for sensitive files and data.
 - Build systems that are fun to use, reliable during power or internet outages, and easy to upgrade over time.
 - Learn and experiment with new technology at my own pace.
   
