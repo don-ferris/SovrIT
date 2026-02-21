@@ -100,13 +100,13 @@ The following core services are always running, fully documented, and have regul
 - NotesNook (for notes)
 - Calendar (Baikal)
 - Netbird (secure network)
-- Nginx Proxy Manager
+- Nginx Proxy Manager or other reverse proxy
 - Authentik/Authelia (authentication/MFA)
 - Portainer (container management)
-- Watchtower (auto updates)
+- Cup or other update manager
 - Autoheal (container recovery)
 - Uptime Kuma (monitoring)
-- LinkAce or Karakeep (bookmarks)
+- LinkAce or LinkWarden (bookmarks)
 - Actual Budget (finances)
 - Lychee (photos)
 - All personal websites/blogs
