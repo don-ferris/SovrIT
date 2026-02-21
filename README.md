@@ -56,6 +56,18 @@ This meta project plan is an overview for the many projects that will collective
 
 ## WILLWIF: What It Looks Like When It’s Finished
 
+### Infrastructure (Hardware)
+
+#### Phase 1
+SERVERS:
+BoraBora
+Kahuna
+Moorea
+
+#### Phase 2
+SERVERS:
+Proxmox HA Cluster
+
 ### User Experience
 
 When my homelab is complete, I interact with all my services through a Flame dashboard as my central hub, accessible from any trusted device. All my daily routines—listening to music, watching movies, downloading media, updating finances, checking home automation status, managing projects, monitoring backup status, and editing Office documents—are easily accessible, organized, and streamlined from this dashboard. Every key action or service is just a click away.
