@@ -1,1 +1,69 @@
+## 🛡️ Sovereignty by Design
+Sovrit exists to give an individual full control over their digital life. This isn’t a hobbyist homelab; it’s a personal autonomy platform.
 
+- Every component is **self-hosted**, **auditable**, and **replaceable**.  
+- No cloud lock‑in, no opaque dependencies, no “trust us” black boxes.  
+- Data ownership is explicit, documented, and non-negotiable.  
+- Privacy is a default, not a feature.
+
+This pillar is the philosophical core: Sovrit is the antidote to outsourced digital life.
+
+---
+
+## 🧱 Infrastructure‑Grade Reliability
+Sovrit is engineered like a utility—quiet, predictable, and boring in the best way.
+
+- Atomic, stepwise procedures with no hidden magic.  
+- Clear failure modes and recovery paths.  
+- Modular components that can be swapped without collapse.  
+- Documentation that assumes the system must survive its creator.
+
+This is what makes Sovrit feel like a *platform*, not a collection of services.
+
+---
+
+## 🧩 Modular, Composable Architecture
+Everything in Sovrit is a building block, not a monolith.
+
+- Each subsystem (Identity, Vault, Mesh, Ledger, Docs) is independent but interoperable.  
+- Repos are small, focused, and purpose‑driven.  
+- Interfaces are clean and documented.  
+- You can adopt one module or the whole suite.
+
+This pillar makes Sovrit scalable—from a single service to a full, sovereign, personal cloud.
+
+---
+
+## 🧭 Human‑Centered Clarity
+Sovrit is built for a non‑technical loved one to operate confidently.
+
+- Documentation is narrative, visual, and stepwise.  
+- Terminology is plain, friendly, and consistent.  
+- Every workflow is designed to be teachable and repeatable.  
+- The system explains itself as it runs.
+
+This is where Sovrit becomes (non-technicaL) *spouse/partner‑worthy*—a platform that empowers, not intimidates.
+
+---
+
+## 🔧 Craftsmanship and Transparency
+Sovrit reflects the ethos of a careful builder: nothing sloppy, nothing hidden.
+
+- Code and configs are clean, annotated, and intentional.  
+- Decisions are documented with rationale and tradeoffs.  
+- No “just trust me” scripts—everything is inspectable.  
+- The platform evolves through iteration, not accretion.
+
+This pillar gives Sovrit its personality: engineered, elegant, and honest.
+
+---
+
+## 🌱 Longevity and Stewardship
+Sovrit is designed to outlive any single device, OS, or trend.
+
+- Migration paths are documented.  
+- Backups are verifiable and routine.  
+- Services are chosen for long-term stability, not hype.  
+- The platform is future‑proofed through simplicity and standards.
+
+This is what makes Sovrit a *legacy* system—something you can hand down.
