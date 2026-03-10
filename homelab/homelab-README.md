@@ -1,3 +1,5 @@
+PITP started as a homelab but then evolved into something that far exceeds the scope of homelabbing. The (incomplete) documentation for "homelab" is herein presereved for reference/prosperity.
+
 ## Table of Contents
 
 - [HomeLab - Purpose & Goals](#homelab---purpose--goals)
